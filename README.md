@@ -89,9 +89,9 @@ position 속성
 
 :--:|--:|--
 
-static | 기준 없음 | O
-relative | 요소 자신 | X
-absolute | 위치 상 부모 요소 | X
+static | 기준 없음 | O  
+relative | 요소 자신 | X  
+absolute | 위치 상 부모 요소 | X  
 fixed | 뷰포트 | X
 
 
