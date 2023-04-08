@@ -50,17 +50,9 @@ _이텔릭_
 
 # 링크(Links)
 
-<a href="https://google.com">GOOGLE</a>
-
 [GOOGLE](https://google.com)
 
-<a href="https://naver.com" title="NAVER로 이동!">NAVER</a>
-
 [NAVER](https://naver.com "NAVER로 이동!")
-
-<a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>
-
-![HEROPY](https://heropy.blog/css/images/logo.png)
 
 [![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
 
